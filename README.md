@@ -107,3 +107,4 @@ We are proud to contribute to the fight against cancer through data and innovati
 
 “Early detection saves lives. Let data lead the way.”
 
+[Lung project presentation.pptx](https://github.com/user-attachments/files/20744566/Lung.project.presentation.pptx)
